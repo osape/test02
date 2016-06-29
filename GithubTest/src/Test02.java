@@ -1,4 +1,6 @@
 
 public class Test02 {
-	// 梨ベース
+	// リベース
+	// リベース後のコミット
+	// after rebase 01
 }
